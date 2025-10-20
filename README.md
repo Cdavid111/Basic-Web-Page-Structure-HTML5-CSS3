@@ -22,16 +22,3 @@ It includes the essential components of a traditional website: a navigation bar,
 ---
 
 ## 📂 Project Structure
-
-Basic-Web-Page-Structure/
-│
-├── styles/
-│ └── index.css
-│
-├── img/
-│ ├── thumbnail.png
-│ └── Logo2.png
-│
-├── index.html
-└── README.md
-
