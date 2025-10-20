@@ -1,0 +1,60 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+body{
+	background:#e6e6e6; 
+}
+
+header, .main ,footer{
+	width:90%;/*layout*/
+	max-width:1000px; /*En realidad Tiene esta Medida*/
+	margin:20px auto; /*Para centrar el header al 90%*/ 
+}
+header nav{
+	background:#6E1A0F;
+	overflow:hidden;  
+}
+header nav ul {
+	list-style: none;
+}
+header nav ul li {
+	float:left; 
+}
+header nav ul li a{
+	padding:10px 20px;
+	display:block; /*Comportar el elemento a estilo nloque y tener acceso (arriba-abajo) frente al objeto*/
+	color:white;
+	text-decoration:none;
+	font-size:18px;    
+}
+header nav ul li a:hover{
+	background:#AB2B1B; 
+}
+
+.main .articles{
+	width:68.5%;
+	float:left;
+	margin-right:1.5%    
+}
+.main .articles article{
+	padding:20px;
+	background:white;
+	margin-bottom:20px;  
+}
+aside{
+	width:30%;
+	background:tomato;
+	float:left;
+	padding:20px;
+	box-sizing:border-box;/*Ajustar el contenido cuando crece el contenedor*/    
+}
+footer{
+	background:black;
+	color:white;
+	clear:both;/*Limpiar los float:left*/
+	padding:10px 0px;
+	text-align:center; 
+
+}
