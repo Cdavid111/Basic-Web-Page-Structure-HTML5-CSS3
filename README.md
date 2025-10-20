@@ -4,6 +4,10 @@ This project demonstrates the **basic layout structure** of a web page using **H
 It includes the essential components of a traditional website: a navigation bar, main content area, sidebar, and footer.
 
 ---
+## 🖼️ Project Preview
+
+![Thumbnail of the web page](Imagenes/thumbnail.png)
+---
 
 ## 🧱 Features
 - Clean and semantic **HTML5** structure
