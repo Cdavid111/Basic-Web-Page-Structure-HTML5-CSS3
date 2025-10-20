@@ -6,7 +6,7 @@ It includes the essential components of a traditional website: a navigation bar,
 ---
 ## 🖼️ Project Preview
 
-![Thumbnail of the web page](Imagenes/thumbnail.png)
+![Thumbnail of the web page](img/thumbnail.png)
 ---
 
 ## 🧱 Features
@@ -22,3 +22,13 @@ It includes the essential components of a traditional website: a navigation bar,
 ---
 
 ## 📂 Project Structure
+
+📁 Basic-Web-Page-Structure/
+└── styles/
+    └── index.css
+└── img/
+    └── thumbnail.png
+    └── Logo2.png
+├── index.html
+├── README.md
+
