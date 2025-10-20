@@ -1,2 +1,20 @@
-# Basic-Web-Page-Structure-HTML5-CSS3-
-A simple example project demonstrating the fundamental structure of a web page using HTML5 and CSS3. Includes a navbar, main content area, sidebar, and footer — ideal for beginners learning basic page layout and semantic structure.
+# 🌐 Basic Web Page Structure (HTML5 & CSS3)
+
+This project demonstrates the **basic layout structure** of a web page using **HTML5** and **CSS3**.  
+It includes the essential components of a traditional website: a navigation bar, main content area, sidebar, and footer.
+
+---
+
+## 🧱 Features
+- Clean and semantic **HTML5** structure
+- Organized **CSS3** styling
+- Simple **responsive layout** example
+- Includes:
+  - Navigation bar (`<nav>`)
+  - Main content area (`<main>`)
+  - Sidebar (`<aside>`)
+  - Footer (`<footer>`)
+
+---
+
+## 📂 Project Structure
